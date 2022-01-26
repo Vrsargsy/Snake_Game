@@ -5,7 +5,7 @@ Compile main.c file and play. Have fun.
 # Змейка на чистом Си.
 
 Компилируйте файл main.c и играйте. Приятной игры.
-\n\n\n\n
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 I took some parts of the code from someone else's code
 
